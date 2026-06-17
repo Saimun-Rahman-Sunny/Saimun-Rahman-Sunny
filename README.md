@@ -4,5 +4,4 @@
 - 🌱 I’m currently learning **Data Analysis with Excel and Power BI.**
 - 💞️ I’m looking to collaborate on **entry-level data analysis projects or business case studies.**
 - 📫 How to reach me: **saimunrahmansunny@gmail.com**
-- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I enjoy strategic thinking, both in a game of chess and in competitive gaming!**
